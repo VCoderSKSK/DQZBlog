@@ -1,5 +1,11 @@
 {
     "title": "DQZhang blog",
     "author": "DQZhang",
-    "language": "zh-hans"
+    "language": "zh-hans",
+	"output": "./docs",
+	"links" : {
+		"sidebar" : {
+			"Home" : "https://github.com/atlantis1024/gitbook-notes"
+		}
+	}
 }
