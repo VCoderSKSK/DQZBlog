@@ -1,0 +1,27 @@
+{
+  "name": "dqzblog",
+  "version": "1.0.0",
+  "description": "文章整理",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "gitbook build",
+    "serve": "gitbook serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dengquanzhang/DQZBlog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dengquanzhang/DQZBlog/issues"
+  },
+  "homepage": "https://github.com/dengquanzhang/DQZBlog#readme",
+  "dependencies": {
+    "gitbook-plugin-ancre-navigation": "^1.0.0"
+  }
+}
